@@ -1,6 +1,6 @@
 # gas-snippets
 
-A collection of functions I created for a Google Apps Scripts project.
+A collection of functions I created for a **Google Apps Script** project.
 
 To use these scripts you'll have to create an account on the relative service (_Cuttly_/_TinyUrl_/_UrlBae_) to shorten urls through their APIs.
 
