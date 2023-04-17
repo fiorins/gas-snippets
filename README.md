@@ -16,5 +16,8 @@ For more details on how their service works, look at their documentation:
 
 Among these the most stringent service seems to be Cuttly which allows only 3 calls per minute.
 
+Visit this website to look at other alternatives:
+https://www.ilovefreesoftware.com/01/featured/free-url-shortener-api-create-short-urls-without-limit.html
+
 NB: I used the .js extension to these files just for convenience.
 In any case, .gs files will be created in the google script console.
