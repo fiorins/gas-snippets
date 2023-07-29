@@ -1,4 +1,4 @@
-function UrlBaeShortner() {
+function UrlBaeShortener() {
 
   const API_URL = "https://urlbae.com/api/url/add";
   const API_KEY = "xxx"; //here replace with your api key
